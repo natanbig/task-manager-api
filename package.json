@@ -27,6 +27,6 @@
     "nodemailer": "^6.4.6"
   },
   "devDependencies": {
-    "env-cmd": "^10.1.0",
+    "env-cmd": "^10.1.0"
   }
 }
